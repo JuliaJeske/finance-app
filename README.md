@@ -1,5 +1,13 @@
-
-<h1 align="center">my.Finance<span>$</span></h1>
+<style>
+  #logo {
+    color: var(--cards);
+    font-weight: 100;
+  }
+  #logo span {
+    color: #A5CC6B;
+}
+</style>
+<h1 id="logo">my.Finance<span>$</span></h1>
 
 
 <br>
