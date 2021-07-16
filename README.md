@@ -2,10 +2,6 @@
   <img alt="my.finances" title="my.finances" src="./assets/logo.svg" width="220px" />
 </h1>
 
-<p align="center">
-  foto do projeto
-</p>
-
 ## 💻Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
