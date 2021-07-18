@@ -154,7 +154,7 @@ const Utils = {
 
     value = Number(value.replace(/\,\./g,"")) * 100
 
-    return value
+    return Math.round(value)
   },
 
   // formata as datas
