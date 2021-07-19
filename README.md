@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="my.finances" title="my.finances" src="./assets/logo.svg" width="220px" />
+  <img alt="my.finances" title="my.finances" src="./assets/LogoMyfinances" width="220px" />
 </h1>
 
 ## 💻Tecnologias
